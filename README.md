@@ -1,4 +1,4 @@
-# Cockpit ZFS Manager
+# Cockpit ZFS Manager (Smiliar to PoolsMan)
 
 [![GitHub Tag](https://img.shields.io/github/v/release/45drives/cockpit-zfs-manager?include_prereleases&style=flat-square&color=brightgreen)](https://github.com/45drives/cockpit-zfs-manager/releases)
 
